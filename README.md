@@ -75,13 +75,35 @@
 <!-- GitHub Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=DEBAJYOTIBASU881&theme=algolia&no-frame=true&margin-w=10"/>
 
-<!-- GitHub Stats Graphs -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DEBAJYOTIBASU881&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true"/>
+<!-- Pie Chart for Contributions -->
+<img width="400" src="https://quickchart.io/chart?c={
+  type:'pie',
+  data:{
+    labels:['Commits','Pull Requests','Issues','Code Reviews'],
+    datasets:[{
+      data:[65,15,10,10],
+      backgroundColor:['#0A003E','#C0C0C0','#00FF00','#FFAA00']
+    }]
+  },
+  options:{
+    plugins:{legend:{position:'bottom'}}
+  }
+}"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAJYOTIBASU881&layout=compact&theme=algolia&hide_border=true"/>
-
-<!-- Contribution Graph -->
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=DEBAJYOTIBASU881&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
+<!-- Top Languages Pie Chart -->
+<img width="400" src="https://quickchart.io/chart?c={
+  type:'pie',
+  data:{
+    labels:['Python','JavaScript','HTML','CSS','Dart'],
+    datasets:[{
+      data:[40,25,15,10,10],
+      backgroundColor:['#306998','#F0DB4F','#E34C26','#264DE4','#00B4AB']
+    }]
+  },
+  options:{
+    plugins:{legend:{position:'bottom'}}
+  }
+}"/>
 
 <!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=DEBAJYOTIBASU881&theme=algolia&hide_border=true"/>
