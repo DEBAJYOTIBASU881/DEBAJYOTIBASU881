@@ -66,19 +66,27 @@
 
 ---
 
+--- 
+
 ## 🏆 Impact Metrics
 
 <div align="center">
 
+<!-- GitHub Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=DEBAJYOTIBASU881&theme=algolia&no-frame=true&margin-w=10"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DEBAJYOTIBASU881&show_icons=true&theme=algolia&hide_border=true&rank_icon=github"/>
+<!-- GitHub Stats Graphs -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DEBAJYOTIBASU881&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true"/>
+
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAJYOTIBASU881&layout=compact&theme=algolia&hide_border=true"/>
 
+<!-- Contribution Graph -->
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=DEBAJYOTIBASU881&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
+
+<!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=DEBAJYOTIBASU881&theme=algolia&hide_border=true"/>
 </div>
 
----
 
 ## 📌 Current Mission
 
