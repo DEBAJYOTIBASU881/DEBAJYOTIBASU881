@@ -9,7 +9,7 @@
 ### 🧠 About Me:
 - 🎓 BTech CSE (AIML)
 - 🧠 Working on an **AI-powered mental health chatbot**
-- 💻 Exploring **Flutter**, **React**, **Node.js**, and **MongoDB**
+- 💻 Exploring **Flutter**, **React**, **Node.js**, and **MySQL**
 - 🤖 Passionate about **Cognitive AI** and intelligent systems
 - 🧪 Love combining AI, UI/UX, and web tech
 - 🌱 Currently learning to **train AI models and finetune pre-trained models**
