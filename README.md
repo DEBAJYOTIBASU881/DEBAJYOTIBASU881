@@ -123,3 +123,20 @@
 + Enhance mental wellness using Cognitive AI
 + Engineer technology that emotionally adapts to users
 + Make intelligence accessible, ethical, and meaningful
+
+---
+
+### 📬 Contact Me:
+<p>
+  <a href="https://www.linkedin.com/in/debajyoti-basu-b852a029b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+<p>
+  <a href="mailto:debajyotibasu806@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-frankmalcov881@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+</p>
+
+---
+
