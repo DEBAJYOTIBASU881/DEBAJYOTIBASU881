@@ -59,7 +59,7 @@
   </a>
 <p>
   <a href="mailto:debajyotibasu806@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-debajyotibasu806@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-frankmalcov881@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 </p>
