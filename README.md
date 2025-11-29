@@ -1,105 +1,85 @@
-<!-- Dark Futuristic Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DEBAJYOTIBASU881/DEBAJYOTIBASU881/main/assets/header.svg" width="100%" alt="Banner"/>
-</p>
+<!-- Hero Section -->
+<div align="center">
 
-<h1 align="center">👋 Hello, I'm <strong>Debajyoti Basu</strong></h1>
-<h3 align="center">AI & Machine Learning Engineer | Full-Stack Developer | Cognitive Tech Explorer</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:0A003E&height=65&section=header&text=Debajyoti%20Basu&fontSize=32&fontColor=FFFFFF&fontAlign=50"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+Web+%7C+Mobile+Developer;Solving+Problems+with+Intelligent+Systems;Building+Tech+for+a+Smarter+Future&center=true&width=500&height=45&color=00eaff"/>
-</p>
+### AI & Machine Learning Engineer  
+### Full-Stack Developer • Cognitive Computing Enthusiast
 
----
-
-## 🧠 About Me
-
-> “AI should amplify human intelligence — not replace it.”
-
-- 🎓 BTech in Computer Science & Engineering (AIML)
-- 🧠 Building an **AI mental wellness / cognitive behavior chatbot**
-- 🔍 Curious about **Cognitive AI**, Human-tech synergy & AGI approaches
-- 📱 Creating apps using **Flutter + Supabase**
-- 🌱 Learning **AI model training, fine-tuning** & **Edge Intelligence**
-- 🧪 Passionate about **AI-driven UX** & intelligent product design
-- 🏆 Self-driven innovator & Hackathon explorer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08E8FF&center=true&vCenter=true&width=650&lines=Building+Human-Centric+AI;AI+that+Understands+Emotion+and+Context;Engineering+Futuristic+Intelligent+Systems;Let's+Shape+Tomorrow+With+AI" />
+</div>
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🌌 Professional Snapshot
 
-### 🤖 AI / Machine Learning
-<p align="center">
- <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn" />
-</p>
+> *Human-Augmented Intelligence. Ethical Automation. Emotion-Aware AI.*
 
-### 🌐 Web & App Development
-<p align="center">
- <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,dart,js,html,css" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p align="center">
- <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
-</p>
-
-### ⚙️ DevOps & Tools
-<p align="center">
- <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-</p>
+- 🎓 B.Tech — CSE (AIML)
+- 🧠 Focus: **Cognitive + Behavioral AI**, Generative Interfaces
+- 🚀 Crafting an **AI Mental Wellness System** analyzing:
+  - Emotions, Stress Patterns, Cognitive Reasoning
+- 🛠️ Developing Cross-platform Apps with **Flutter**
+- 🌱 Exploring **Edge AI**, **Neurosymbolic Approaches**, **Fine-Tuning LLMs**
+- 🔍 Interested in AI Ethics + Philosophy of Intelligence
+- ⚡ Innovative thinker, hackathon enthusiast
 
 ---
 
-## 🧩 What I Build
+## 🧠 Technical Capabilities
 
-| Category | Focus Area |
-|---------|------------|
-| 🧠 Cognitive Systems | Emotional AI, Behavioral insights, NLP |
-| 📱 Cross-platform Apps | Flutter + Intelligent features |
-| 🌍 Full-Stack Solutions | Secure APIs, smart databases |
-| 🤖 Model Dev & Finetune | Transformers, CV, NLP |
+### 🤖 AI / Data Science
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv,scikitlearn"/>
+</div>
 
-🔬 Currently experimenting with **neurosymbolic concepts** & **AI ethics** principles.
+### 🌐 Web Development
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css"/>
+</div>
 
----
+### 📱 App Dev & Cloud
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,mysql"/>
+</div>
 
-## 📊 Performance on GitHub
-
-<p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DEBAJYOTIBASU881&show_icons=true&theme=react&hide_border=true&include_all_commits=true"/>
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAJYOTIBASU881&layout=compact&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEBAJYOTIBASU881&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=DEBAJYOTIBASU881&theme=onedark&no-frame=true&margin-w=5"/>
-</p>
+### ⚙ Engineering Tools
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+</div>
 
 ---
 
-## 🌍 Connect With Me
+## 🧩 Core Expertise
 
-<p align="center">
-<a href="mailto:debajyotibasu806@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/debajyoti-basu-b852a029b">
- <img src="https://img.shields.io/badge/LinkedIn-Network-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://github.com/DEBAJYOTIBASU881">
- <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
-</a>
-</p>
+| Field | Contribution |
+|------|--------------|
+| Cognitive AI | Behavioral insights, emotional intelligence, reasoning models |
+| Intelligent Systems | Context-aware automation & agent architectures |
+| Cross-Platform Development | Flutter + Smart APIs + Real-time DB |
+| LLM Workflows | Prompt engineering, fine-tuning, NLP apps |
+
+> *Driven to create AI that cares, thinks & co-evolves with people.*
 
 ---
 
-<p align="center">
-  <strong>Turning Data → Meaning | Meaning → Intelligence | Intelligence → Future</strong> ✨
-</p>
+## 🏆 Impact Metrics
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DEBAJYOTIBASU881&theme=algolia&no-frame=true&margin-w=10"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DEBAJYOTIBASU881&show_icons=true&theme=algolia&hide_border=true&rank_icon=github"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAJYOTIBASU881&layout=compact&theme=algolia&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=DEBAJYOTIBASU881&theme=algolia&hide_border=true"/>
+</div>
+
+---
+
+## 📌 Current Mission
+
+```diff
++ Enhance mental wellness using Cognitive AI
++ Engineer technology that emotionally adapts to users
++ Make intelligence accessible, ethical, and meaningful
