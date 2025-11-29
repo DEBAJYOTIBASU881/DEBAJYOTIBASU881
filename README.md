@@ -1,79 +1,105 @@
-<h2 align="center">Hi 👋, THIS IS DEBAJYOTI BASU</h2>
-<h4 align="center">🚀 AIML Developer | Web Developer | Flutter Learner | Hackathon Explorer</h4>
+<!-- Dark Futuristic Header -->
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&center=true&vCenter=true&multiline=true&width=600&height=100&size=24&color=00FF00&lines=Welcome+to+my+GitHub!;Let's+build+cool+things+together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/DEBAJYOTIBASU881/DEBAJYOTIBASU881/main/assets/header.svg" width="100%" alt="Banner"/>
 </p>
 
-
----
-
-### 🧠 About Me:
-- 🎓 BTech CSE (AIML)
-- 🧠 Working on an **AI-powered mental health chatbot**
-- 💻 Exploring **Flutter**, **React**, **Node.js**, and **MySQL**
-- 🤖 Passionate about **Cognitive AI** and intelligent systems
-- 🧪 Love combining AI, UI/UX, and web tech
-- 🌱 Currently learning to **train AI models and finetune pre-trained models**
-- 📚 Self-driven learner, deeply interested in **philosophy and AI ethics**
-
----
-
-### 🛠️ Technologies & Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FDD017?style=flat&logo=python&logoColor=blue"/>
-   <img src="https://img.shields.io/badge/C-007ACC?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=#FFD700"/>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <!-- Deep Learning / AI Tools -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEBAJYOTIBASU881&show_icons=true&theme=github_dark&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAJYOTIBASU881&layout=compact&theme=github_dark" width="48%"/>
-</p>
-
----
-
-### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GangserX&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
-
-### 📬 Contact Me:
-<p>
-  <a href="https://www.linkedin.com/in/debajyoti-basu-b852a029b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-<p>
-  <a href="mailto:debajyotibasu806@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-frankmalcov881@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-</p>
-
----
+<h1 align="center">👋 Hello, I'm <strong>Debajyoti Basu</strong></h1>
+<h3 align="center">AI & Machine Learning Engineer | Full-Stack Developer | Cognitive Tech Explorer</h3>
 
 <p align="center">
-  🧠 Turning data into wisdom, and wisdom into vision...
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+Web+%7C+Mobile+Developer;Solving+Problems+with+Intelligent+Systems;Building+Tech+for+a+Smarter+Future&center=true&width=500&height=45&color=00eaff"/>
+</p>
+
+---
+
+## 🧠 About Me
+
+> “AI should amplify human intelligence — not replace it.”
+
+- 🎓 BTech in Computer Science & Engineering (AIML)
+- 🧠 Building an **AI mental wellness / cognitive behavior chatbot**
+- 🔍 Curious about **Cognitive AI**, Human-tech synergy & AGI approaches
+- 📱 Creating apps using **Flutter + Supabase**
+- 🌱 Learning **AI model training, fine-tuning** & **Edge Intelligence**
+- 🧪 Passionate about **AI-driven UX** & intelligent product design
+- 🏆 Self-driven innovator & Hackathon explorer
+
+---
+
+## 🛠️ Tech Toolbox
+
+### 🤖 AI / Machine Learning
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn" />
+</p>
+
+### 🌐 Web & App Development
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,dart,js,html,css" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</p>
+
+---
+
+## 🧩 What I Build
+
+| Category | Focus Area |
+|---------|------------|
+| 🧠 Cognitive Systems | Emotional AI, Behavioral insights, NLP |
+| 📱 Cross-platform Apps | Flutter + Intelligent features |
+| 🌍 Full-Stack Solutions | Secure APIs, smart databases |
+| 🤖 Model Dev & Finetune | Transformers, CV, NLP |
+
+🔬 Currently experimenting with **neurosymbolic concepts** & **AI ethics** principles.
+
+---
+
+## 📊 Performance on GitHub
+
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DEBAJYOTIBASU881&show_icons=true&theme=react&hide_border=true&include_all_commits=true"/>
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAJYOTIBASU881&layout=compact&theme=react&hide_border=true"/>
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEBAJYOTIBASU881&theme=react&hide_border=true"/>
+</p>
+
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=DEBAJYOTIBASU881&theme=onedark&no-frame=true&margin-w=5"/>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+<a href="mailto:debajyotibasu806@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/debajyoti-basu-b852a029b">
+ <img src="https://img.shields.io/badge/LinkedIn-Network-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/DEBAJYOTIBASU881">
+ <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Turning Data → Meaning | Meaning → Intelligence | Intelligence → Future</strong> ✨
+</p>
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
 </p>
