@@ -116,14 +116,6 @@
 <img src="https://streak-stats.demolab.com?user=DEBAJYOTIBASU881&theme=algolia&hide_border=true"/>
 </div>
 
-
-## 📌 Current Mission
-
-```diff
-+ Enhance mental wellness using Cognitive AI
-+ Engineer technology that emotionally adapts to users
-+ Make intelligence accessible, ethical, and meaningful
-
 ---
 
 ### 📬 Contact Me:
@@ -139,4 +131,13 @@
 </p>
 
 ---
+
+
+## 📌 Current Mission
+
+```diff
++ Enhance mental wellness using Cognitive AI
++ Engineer technology that emotionally adapts to users
++ Make intelligence accessible, ethical, and meaningful
+
 
