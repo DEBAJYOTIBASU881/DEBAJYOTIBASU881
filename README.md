@@ -6,7 +6,9 @@
 ### AI & Machine Learning Engineer  
 ### Full-Stack Developer • Cognitive Computing Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08E8FF&center=true&vCenter=true&width=650&lines=Building+Human-Centric+AI;AI+that+Understands+Emotion+and+Context;Engineering+Futuristic+Intelligent+Systems;Let's+Shape+Tomorrow+With+AI" />
+<img src="https://svgshare.com/i/tY7.svg" width="800" height="50"/>
+
+
 </div>
 
 ---
