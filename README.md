@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  🧠 *"Code is like humor. When you have to explain it, it's bad."*
+  🧠 *Turning data into wisdom, and wisdom into vision...*
 </p>
