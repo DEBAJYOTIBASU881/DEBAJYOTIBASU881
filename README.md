@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  🧠 *Turning data into wisdom, and wisdom into vision...*
+  🧠 Turning data into wisdom, and wisdom into vision...
 </p>
