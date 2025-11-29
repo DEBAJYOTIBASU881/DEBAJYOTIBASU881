@@ -13,6 +13,7 @@
 - 🤖 Passionate about **Cognitive AI** and intelligent systems
 - 🧪 Love combining AI, UI/UX, and web tech
 - 🌱 Currently learning to **train AI models and finetune pre-trained models**
+- 📚 Self-driven learner, deeply interested in **philosophy and AI ethics**
 
 ---
 
