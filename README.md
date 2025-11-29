@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, THIS IS DEBAJYOTI BASU</h2>
 <h4 align="center">🚀 AIML Developer | Web Developer | Flutter Learner | Hackathon Explorer</h4>
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&center=true&vCenter=true&multiline=true&width=600&height=100&size=24&color=00FF00&lines=Welcome+to+my+GitHub!;Let's+build+cool+things+together+%F0%9F%92%BB" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&center=true&vCenter=true&multiline=true&width=600&height=100&size=24&color=00FF00&lines=Welcome+to+my+GitHub!;Let's+build+cool+things+together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 
