@@ -6,7 +6,7 @@
 ### AI & Machine Learning Engineer  
 ### Full-Stack Developer • Cognitive Computing Enthusiast
 
-<img src="https://svgshare.com/i/tY7.svg" width="800" height="50"/>
+<img src="https://raw.githubusercontent.com/DEBAJYOTIBASU881/readmeticker/refs/heads/main/ticker.svg" width="800" height="50"/>
 
 
 </div>
