@@ -1,7 +1,8 @@
 <!-- Hero Section -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:0A003E&height=65&section=header&text=Debajyoti%20Basu&fontSize=32&fontColor=FFFFFF&fontAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A003E,100:C0C0C0&height=65&section=header&text=Hi!%20%F0%9F%91%8B%20This%20is%20DEBAJYOTI%20BASU%20-%20Let's%20Build%20the%20Future%20With%20AI&fontSize=28&fontColor=FFFFFF&font=Playfair+Display&fontAlign=50"/>
+
 
 ### AI & Machine Learning Engineer  
 ### Full-Stack Developer • Cognitive Computing Enthusiast
