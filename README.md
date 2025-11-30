@@ -15,18 +15,16 @@
 
 ---
 
-## 🌌 Professional Snapshot
+### 🌌 Professional Snapshot
 
-> *Human-Augmented Intelligence. Ethical Automation. Emotion-Aware AI.*
-
-- 🎓 B.Tech — CSE (AIML)
-- 🧠 Focus: **Cognitive + Behavioral AI**, Generative Interfaces
-- 🚀 Crafting an **AI Mental Wellness System** analyzing:
-  - Emotions, Stress Patterns, Cognitive Reasoning
-- 🛠️ Developing Cross-platform Apps with **Flutter**
-- 🌱 Exploring **Edge AI**, **Neurosymbolic Approaches**, **Fine-Tuning LLMs**
-- 🔍 Interested in AI Ethics + Philosophy of Intelligence
-- ⚡ Innovative thinker, hackathon enthusiast
+| Category | Details |
+|---------|---------|
+| 🎓 Education | B.Tech — Computer Science & Engineering *(AIML)* |
+| 🧠 Expertise & Interests | Cognitive & Behavioral AI • Generative User Interfaces • Neurosymbolic AI • AI Ethics & Philosophy of Intelligence |
+| 🚀 Current Mission | Building an **AI Mental Wellness System** analyzing **emotions**, **stress patterns**, **cognitive reasoning** |
+| 🛠️ Tech Stack | Cross-platform App Development with **Flutter** • **Fine-Tuning LLMs** • **Edge AI Deployment** |
+| 🔍 Research Focus | Emotion-Aware AI • Ethical Automation • Human-Augmented Intelligence |
+| ⚡ Personality | Innovative Thinker • Hackathon Enthusiast • Learner by Action |
 
 ---
 
