@@ -85,6 +85,15 @@
 
 --- 
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a81fc207-613a-4a1e-87af-1811546426f2" 
+       alt="GIF" 
+       style="width:100%; max-width:none; height:auto;" />
+</div>
+
+
+---
+
 ## 🏆 Impact Metrics
 
 <div align="center">
