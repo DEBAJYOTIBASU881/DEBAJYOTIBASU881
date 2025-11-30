@@ -52,8 +52,11 @@
 </div>
 
 ---
-
 ## 🧩 Core Expertise
+
+<table>
+<tr>
+<td>
 
 | Field | Contribution |
 |------|--------------|
@@ -63,6 +66,16 @@
 | LLM Workflows | Prompt engineering, fine-tuning, NLP apps |
 
 > *Driven to create AI that cares, thinks & co-evolves with people.*
+
+</td>
+<td align="center" width="45%">
+
+<img src="https://github.com/user-attachments/assets/599cb584-bb05-48df-8756-eccd68f23612" width="250"/>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
