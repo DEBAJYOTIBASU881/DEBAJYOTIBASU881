@@ -86,6 +86,18 @@
 --- 
 
 <div align="center">
+  <h1 style="
+    color: #00f9ff; 
+    text-shadow: 
+      0 0 5px #00f9ff, 
+      0 0 10px #00f9ff, 
+      0 0 20px #00f9ff, 
+      0 0 40px #00f9ff;
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 20px;
+  ">
+    FUTURE IS INTERESTING!
+  </h1>
   <img src="https://github.com/user-attachments/assets/a81fc207-613a-4a1e-87af-1811546426f2" 
        alt="GIF" 
        style="width:100%; max-width:none; height:auto;" />
