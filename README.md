@@ -30,7 +30,7 @@
 
 ### 🤖 AI / Data Science
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,Kubernetes,opencv,scikitlearn"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,scikitlearn"/>
 </div>
 
 ### 🌐 Web Development
@@ -40,12 +40,12 @@
 
 ### 📱 App Dev & Cloud
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,mysql"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,postgres,mysql"/>
 </div>
 
 ### ⚙ Engineering Tools
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman"/>
 </div>
 
 ---
@@ -81,7 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DEBAJYOTIBASU881&show_icons=true&theme=github_dark&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAJYOTIBASU881&layout=compact&theme=github_dark" width="48%"/>
 </p>
-
 
 --- 
 
