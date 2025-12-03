@@ -20,10 +20,13 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Push snake.svg to output branch
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
-          directory: dist
+      - name: Commit and Push Snake Animation
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -B output
+          git add dist/snake.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
