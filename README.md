@@ -142,6 +142,10 @@
   }
 }"/>
 
+---
+⚡GitHub Streak Stats
+<div align="center">
+
 <!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=DEBAJYOTIBASU881&theme=algolia&hide_border=true"/>
 </div>
