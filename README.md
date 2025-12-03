@@ -152,7 +152,7 @@
 
 ---
 
-### 🐍 Snake Animation
+### 🐍 My Commits
 
 ![snake animation](https://raw.githubusercontent.com/DEBAJYOTIBASU881/DEBAJYOTIBASU881/output/dist/snake.svg)
 
