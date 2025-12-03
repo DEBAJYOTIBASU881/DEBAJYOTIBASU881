@@ -30,7 +30,7 @@
 
 ### 🤖 AI / Data Science
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv,scikitlearn"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,Kubernetes,opencv,scikitlearn"/>
 </div>
 
 ### 🌐 Web Development
