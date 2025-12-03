@@ -148,6 +148,10 @@
 
 ---
 
+![snake gif](https://raw.githubusercontent.com/DEBAJYOTIBASU881/DEBAJYOTIBASU881/output/snake.svg)
+
+---
+
 ### 📬 Contact Me:
 <p>
   <a href="https://www.linkedin.com/in/debajyoti-basu-b852a029b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
