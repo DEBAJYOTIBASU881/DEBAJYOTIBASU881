@@ -35,7 +35,7 @@
 
 ### 🌐 Web Development
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,js,html,css"/>
 </div>
 
 ### 📱 App Dev & Cloud
