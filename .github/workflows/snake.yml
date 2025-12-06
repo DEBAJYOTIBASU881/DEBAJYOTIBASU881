@@ -16,29 +16,26 @@ jobs:
 
       # Step 2: Generate the snake animation
       - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: DEBAJYOTIBASU881
-          outputs: |
-            dist/snake.svg
+      uses: Platane/snk/svg-only@v3
+      with:
+        github_user_name: DEBAJYOTIBASU881
+        outputs: |
+          dist/snake.svg
+        palette: |
+          background: '#000000'     # BLACK background
+          snake: '#39FF14'          # Neon green snake
+          food: '#ff3636'           # Red food
+          pixel: '#ffffff'          # White grid
 
-      # Step 3: Commit and push the snake.svg to 'output' branch
+      # Step 3: Commit and push snake.svg to 'output' branch
       - name: Commit and Push Snake Animation
         run: |
-          # Configure git
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Create or switch to the output branch
           git checkout -B output
-
-          # Add the generated file
           git add dist/snake.svg
-
-          # Commit the changes, skip if nothing changed
           git commit -m "Update snake animation" || echo "No changes to commit"
-
-          # Push to the output branch
           git push origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
