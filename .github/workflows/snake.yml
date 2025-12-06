@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,16 +14,16 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3     # <-- FIXED VERSION
         with:
           github_user_name: DEBAJYOTIBASU881
           outputs: |
             dist/snake.svg
           palette: |
-            background: '#0d1117'    # GitHub dark mode background
-            pixel: '#161b22'         # GitHub panel/grid color
-            snake: '#58a6ff'         # GitHub blue accent
-            food: '#f78166'          # GitHub orange accent
+            background: '#0d1117'
+            pixel: '#161b22'
+            snake: '#58a6ff'
+            food: '#f78166'
 
       - name: Commit and Push Snake Animation
         run: |
