@@ -20,10 +20,10 @@ jobs:
           outputs: |
             dist/snake.svg
           palette: |
-            background: '#000000'      # Black (you can replace with navy if needed)
-            pixel: '#161b22'           # GitHub Dark Pixel Color
-            snake: '#39FF14'           # Neon green snake
-            food: '#ff3636'            # Red food
+            background: '#0d1117'    # GitHub dark mode background
+            pixel: '#161b22'         # GitHub panel/grid color
+            snake: '#58a6ff'         # GitHub blue accent
+            food: '#f78166'          # GitHub orange accent
 
       - name: Commit and Push Snake Animation
         run: |
