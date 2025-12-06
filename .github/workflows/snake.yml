@@ -10,24 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake animation
       - name: Generate Snake Animation
-      uses: Platane/snk/svg-only@v3
-      with:
-        github_user_name: DEBAJYOTIBASU881
-        outputs: |
-          dist/snake.svg
-        palette: |
-          background: '#000000'     # BLACK background
-          snake: '#39FF14'          # Neon green snake
-          food: '#ff3636'           # Red food
-          pixel: '#ffffff'          # White grid
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: DEBAJYOTIBASU881
+          outputs: |
+            dist/snake.svg
+          palette: |
+            background: '#000000'      # Black (you can replace with navy if needed)
+            pixel: '#161b22'           # GitHub Dark Pixel Color
+            snake: '#39FF14'           # Neon green snake
+            food: '#ff3636'            # Red food
 
-      # Step 3: Commit and push snake.svg to 'output' branch
       - name: Commit and Push Snake Animation
         run: |
           git config --global user.name "github-actions[bot]"
