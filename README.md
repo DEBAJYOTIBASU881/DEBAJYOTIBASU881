@@ -22,7 +22,7 @@
 | 🚀 Current Mission | Building an **AI Mental Wellness System** analyzing **emotions**, **stress patterns**, **cognitive reasoning** |
 | 🛠️ Tech Stack | Cross-platform App Development with **Flutter** • **Fine-Tuning LLMs** • **Edge AI Deployment** |
 | 🔍 Research Focus | Emotion-Aware AI • Ethical Automation • Human-Augmented Intelligence |
-| ⚡ Personality | Innovative Thinker • Hackathon Enthusiast • Learner by Action |
+| ⚡ Personality | Innovative Thinker • Learner by Action |
 
 ---
 
